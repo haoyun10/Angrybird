@@ -1,0 +1,11 @@
+What I add in the program
+1.add backgroud and sling
+2.birds rolling in the sky by using a function which can make the image Rotate 90 degress to make birds look like rolling in the sky
+3.bird can't fly out of the Frame
+4.you can only shoot the bird above grass 
+5.added score board functionaliy, which uses quicksort for displaying the best performance. example: used 3 birds
+6.add the enemy(pig)
+7.add reset botton and exit botton
+8.add score (if you defeat a pig, a star will appear)
+9.if you win  "you win!!" will show on the screen. if you lose, "you lose" will show on the screen.
+10.you have 5 birds in one game.
